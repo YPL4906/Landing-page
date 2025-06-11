@@ -36,5 +36,5 @@ const Home = () => {
 		</div>
 	);
 };
-
+//Como nota adicional, he intentado que no se vea el espacio en blanco al final de la pantalla, pero no he conseguido hacerlo sin que se rompra algo 
 export default Home;
